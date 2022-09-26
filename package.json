@@ -1,0 +1,24 @@
+{
+  "name": "controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasBaeskow/router-controller.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasBaeskow/router-controller/issues"
+  },
+  "homepage": "https://github.com/ThomasBaeskow/router-controller#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
